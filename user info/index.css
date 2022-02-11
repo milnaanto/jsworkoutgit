@@ -1,0 +1,24 @@
+* {
+    margin:10px ;
+}
+h1 {
+    color: rgb(17, 2, 59);
+}
+/*.form{
+    background-color: blanchedalmond;
+}*/
+.form label {
+    color: rgb(28, 3, 73);
+    font-size: larger;
+}
+.form input {
+    width: 2px
+    height: 2px;
+    padding: 2px;
+}
+.form button{
+    width: 100px;
+    font-size: medium;
+    color: rgb(5, 5, 94);
+    background-color: aliceblue;
+}
